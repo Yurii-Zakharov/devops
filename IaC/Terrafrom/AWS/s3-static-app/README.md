@@ -16,5 +16,7 @@ Steps
 ```terraform init```
 2. Run apply\
 ```terrafrom apply```
-3. Check results\
+3. Get link from outputs - website_bucket_endpoint\
+![outputs](https://github.com/Yurii-Zakharov/devops/blob/master/IaC/Terrafrom/AWS/s3-static-app/outputs.png)
+4. Open link in browser\
 ![s3 static app](https://github.com/Yurii-Zakharov/devops/blob/master/IaC/Terrafrom/AWS/s3-static-app/terramino.png)
