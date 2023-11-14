@@ -17,4 +17,4 @@ Steps
 2. Run apply\
 ```terrafrom apply```
 3. Check results\
-[](https://github.com/Yurii-Zakharov/devops/blob/master/IaC/Terrafrom/AWS/s3-static-app/terramino.png)
+![s3 static app](https://github.com/Yurii-Zakharov/devops/blob/master/IaC/Terrafrom/AWS/s3-static-app/terramino.png)
